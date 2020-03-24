@@ -1,0 +1,11 @@
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/bin/Debug/netcoreapp2.2/kebab_project.deps.json
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/bin/Debug/netcoreapp2.2/kebab_project.runtimeconfig.json
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/bin/Debug/netcoreapp2.2/kebab_project.runtimeconfig.dev.json
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/bin/Debug/netcoreapp2.2/kebab_project.dll
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/bin/Debug/netcoreapp2.2/kebab_project.pdb
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/obj/Debug/netcoreapp2.2/kebab_project.csprojAssemblyReference.cache
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/obj/Debug/netcoreapp2.2/kebab_project.csproj.CoreCompileInputs.cache
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/obj/Debug/netcoreapp2.2/kebab_project.AssemblyInfoInputs.cache
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/obj/Debug/netcoreapp2.2/kebab_project.AssemblyInfo.cs
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/obj/Debug/netcoreapp2.2/kebab_project.dll
+/home/thesaint/Bureau/DesignPatternCSharp/kebab_project/kebab_project/obj/Debug/netcoreapp2.2/kebab_project.pdb
